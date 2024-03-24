@@ -23,6 +23,7 @@ I'm sheena. I'm 23 years old and web developer.
 <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,mysql,postgresql,graphql,docker,aws,github,vscode,emacs,vim,discord,windows,linux" /> <br /><br />
 
 ※Another Programming Languages, Frameworks and Tools
+<br>
 Slim, Hasura, SVN, Virtual Box, Slack
 
 # NOW TRAINING
@@ -30,6 +31,7 @@ Slim, Hasura, SVN, Virtual Box, Slack
 <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,jest,graphql,githubactions,aws" /> <br /><br />
 
 ※Another NOW TRAINING
+<br>
 Storybook, React Testing Library
 
 <!-- --------------------------------- :) ---------------------------------- -->
