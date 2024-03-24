@@ -20,13 +20,11 @@ I'm sheena. I'm 23 years old and web developer.
 
 # My Best Languages, Frameworks, and Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,mysql
-,docker,github,vscode" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,mysql,docker,github,vscode" /> <br /><br />
 
 # Programming Languages, Frameworks and Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,mysql,
-postgresql,graphql,docker,aws,github,vscode,emacs,vim,discord,windows,linux" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,mysql,postgresql,graphql,docker,aws,github,vscode,emacs,vim,discord,windows,linux" /> <br /><br />
 
 ※Another Programming Languages, Frameworks and Tools
 Slim, Hasura, SVN, Virtual Box, Slack
